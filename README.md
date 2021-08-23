@@ -1,1 +1,1 @@
-# Display the dependency/predency relation in the formulas in an Excel file
+# Display the Formula relation as a tree using JS
