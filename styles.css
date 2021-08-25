@@ -1,0 +1,19 @@
+#ss {
+    width: 100%;
+    height: 40%;
+    border: 1px solid black;
+}
+
+#show {
+    width: 100%;
+    height: 60%;
+    border: 1px solid black;
+}
+.sample-tutorial {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+body{
+    height:  100%;
+}
